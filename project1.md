@@ -10,7 +10,7 @@ Problem Statement:
 Tasks:
 
   - Create a document with the steps required and also list out any steps
-  - Think of any automation steps viz., shell scripting, cloud data, aws cli.
+  - Think of any automation steps viz., shell scripting, cloud data, aws cli. Cloud Formation.
   - Consider creating the plan with future in mind - scalability and also other services like DB.
   -  Check in all the scripts and documentation into github.
   - As per the document, create the infrastructure and show a demo of the simple web application (apache2)
